@@ -7,7 +7,7 @@ By encapsulating domain knowledge, operational procedures, and automation logic 
 
 ## Project
 
-| Agent Skills                                                                                      | Description                                                                                                                                                                                    |
+| Name                                                                                      | Description                                                                                                                                                                                    |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Obsidian Skills](https://github.com/kepano/obsidian-skills)                        | Claude Skills for use with Obsidian.                                                                                                                                          |
 | [Planning with Files](https://github.com/OthmanAdi/planning-with-files)             | Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.                                                                                                                                          |
