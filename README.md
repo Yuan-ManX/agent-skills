@@ -15,6 +15,13 @@ By encapsulating domain knowledge, operational procedures, and automation logic 
 | [Skills](https://github.com/anthropics/skills)                                      | Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.                                                                                                                                          |
 
 
+## Getting Started
+
+- [Documentation](https://agentskills.io) - Guides and tutorials
+- [Specification](https://agentskills.io/specification) - Format details
+- [Example Skills](https://github.com/anthropics/skills) - See what's possible
+
+
 ## References
 
 - Agent Skills: https://agentskills.io
