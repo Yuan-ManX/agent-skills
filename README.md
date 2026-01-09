@@ -17,6 +17,7 @@ By encapsulating domain knowledge, operational procedures, and automation logic 
 
 ## References
 
-- Anthropic API: https://docs.anthropic.com/claude/reference
+- Agent Skills: https://agentskills.io
 - Claude Skills: https://github.com/anthropics/skills
+- Anthropic API: https://docs.anthropic.com/claude/reference
 - MCP Servers: https://github.com/modelcontextprotocol/servers
